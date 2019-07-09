@@ -11,5 +11,6 @@
     "vue"
   ],
   "author": "focci",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {}
 }

@@ -1,0 +1,15 @@
+{
+  "name": "ztoo",
+  "version": "1.0.0",
+  "description": "A javascript framework based on vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ztoo",
+    "vue"
+  ],
+  "author": "focci",
+  "license": "MIT"
+}
